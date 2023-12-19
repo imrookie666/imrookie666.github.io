@@ -5,8 +5,8 @@ layout: page
 # About Me
 
 
+<img src="luoqianli.jpg" class="floatpic" width="360" height="480">
 
-![照片](D:\blog\blog_git\imrookie666.github.io\images\luoqianli.jpg)
 
 Here is **Qianli Luo (罗千里)**.
 
